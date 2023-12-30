@@ -139,8 +139,8 @@ transparent;
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    padding: 200px 100px 0px 0px;
-    margin-top: 1000px;
+    padding: 200px 100px 20px 0px;
+    margin-top: 160px;
 }
 
 .year-container>span {
