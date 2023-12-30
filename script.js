@@ -1,1 +1,1 @@
-alert("Nyalain mode Desktop");
+alert("Nyalain mode Desktop, terus refresh");
