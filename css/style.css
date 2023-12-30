@@ -1,6 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
 
+@media (max-width: 500px) {
+    .year-container{
+        font-size: 0,1px;
+        
+       
+    }
+    .title-container{
+        font-size: x-small;
+    }
+}
+* {
+    margin: 0;
+    padding: 0;
+    transition: all 100ms ease-in;
+    box-sizing: border-box;
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -123,7 +140,7 @@ transparent;
     align-items: center;
     overflow: hidden;
     padding: 200px 100px 0px 0px;
-    margin-top: 160px;
+    margin-top: 60px;
 }
 
 .year-container>span {
